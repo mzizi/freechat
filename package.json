@@ -1,5 +1,5 @@
 {
-  "name": "freechat",
+  "name": "@mzizi/freechat",
   "version": "0.0.0",
   "private": true,
   "workspaces": [
